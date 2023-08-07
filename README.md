@@ -13,6 +13,10 @@ The Hand Sign Movement Controller is an innovative project that allows users to 
    ![Image_1691404042 7518113](https://github.com/yashrajsd/hands-sign-movement-controller/assets/107096154/658f8e28-9e05-4e7f-9e94-75884f96c5e0)
 
 4.RIghtwards (d key)
-   ![Image_1691398138 6492543](https://github.com/yashrajsd/hands-sign-movement-controller/assets/107096154/116c648f-3463-428f-81d4-922ad769a2c6) 
+    ![Image_1691404004 413824](https://github.com/yashrajsd/hands-sign-movement-controller/assets/107096154/0d79b12a-9187-4d29-8602-f2208078ecde)
+
+#Error
+- I accidendtaly trained the model using two signs for rightwards direction so might result in prediction issues will update the model soon
+
 
 
