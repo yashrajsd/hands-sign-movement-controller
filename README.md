@@ -1,7 +1,7 @@
 # hands-sign-movement-controller
 The Hand Sign Movement Controller is an innovative project that allows users to interact with a computer or game using hand gestures. By leveraging computer vision and machine learning techniques, this project detects and classifies hand signs in real-time, enabling users to control various actions such as character movement or gameplay.
 
-#Controls (you can customize this four keys in the code)
+#Controls (you can customize this four keys in the code) (sorry for weird hand signs XD)
 
 1. Forward (w key)
    ![Image_1691404152 580775](https://github.com/yashrajsd/hands-sign-movement-controller/assets/107096154/4a20f50b-3469-4a3a-a19c-e2fc046089d1) 
